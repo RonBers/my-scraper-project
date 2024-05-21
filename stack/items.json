@@ -1,0 +1,202 @@
+[
+  {
+    "title": "ValueError: invalid literal for int() with base 10: '$4,000.00",
+    "url": "/questions/78506399/valueerror-invalid-literal-for-int-with-base-10-4-000-00"
+  },
+  {
+    "title": "How to cleanly inject a namespace module's UI into a main app's UI, using R Shiny?",
+    "url": "/questions/78506398/how-to-cleanly-inject-a-namespace-modules-ui-into-a-main-apps-ui-using-r-shin"
+  },
+  {
+    "title": "Can we create SQL Server Database Project in .NET 8 through Visual Studio 2022",
+    "url": "/questions/78506397/can-we-create-sql-server-database-project-in-net-8-through-visual-studio-2022"
+  },
+  {
+    "title": "rbac policies for gke namespace",
+    "url": "/questions/78506395/rbac-policies-for-gke-namespace"
+  },
+  {
+    "title": "Why is turbo frame content getting replaced with entire target page, rather than just the turbo frame with matching id inside that page?",
+    "url": "/questions/78506391/why-is-turbo-frame-content-getting-replaced-with-entire-target-page-rather-than"
+  },
+  {
+    "title": "SharePoint 2013 extremely slow",
+    "url": "/questions/78506389/sharepoint-2013-extremely-slow"
+  },
+  {
+    "title": "Generate workflow in current devops sprint through logic apps",
+    "url": "/questions/78506387/generate-workflow-in-current-devops-sprint-through-logic-apps"
+  },
+  {
+    "title": "Scapy AH Tunnel Mode",
+    "url": "/questions/78506385/scapy-ah-tunnel-mode"
+  },
+  {
+    "title": "MPLUS SEM model with zero inflated measured variables",
+    "url": "/questions/78506384/mplus-sem-model-with-zero-inflated-measured-variables"
+  },
+  {
+    "title": "How to smooth a 3D surface plot?",
+    "url": "/questions/78506382/how-to-smooth-a-3d-surface-plot"
+  },
+  {
+    "title": "Why does rapid page navigation in Blazor cause issues when each page initializes Entity Framework?",
+    "url": "/questions/78506378/why-does-rapid-page-navigation-in-blazor-cause-issues-when-each-page-initializes"
+  },
+  {
+    "title": "How do I fetch consumed size of all Azure storage accounts in a tenant",
+    "url": "/questions/78506377/how-do-i-fetch-consumed-size-of-all-azure-storage-accounts-in-a-tenant"
+  },
+  {
+    "title": "In Rust, why can't I await an async_std::task::JoinHandle in a closure within the map method?",
+    "url": "/questions/78506375/in-rust-why-cant-i-await-an-async-stdtaskjoinhandle-in-a-closure-within-th"
+  },
+  {
+    "title": "multi target classification on email data",
+    "url": "/questions/78506372/multi-target-classification-on-email-data"
+  },
+  {
+    "title": "Error message Exception: Invalid argument: date. Should be of type: Date",
+    "url": "/questions/78506371/error-message-exception-invalid-argument-date-should-be-of-type-date"
+  },
+  {
+    "title": "how to remove payment method and shipping method from the admin editting process?",
+    "url": "/questions/78506368/how-to-remove-payment-method-and-shipping-method-from-the-admin-editting-process"
+  },
+  {
+    "title": "CSS not showing after adding and removing border radius",
+    "url": "/questions/78506365/css-not-showing-after-adding-and-removing-border-radius"
+  },
+  {
+    "title": "status code:400 bad request occurs, unable get error message from backend",
+    "url": "/questions/78506364/status-code400-bad-request-occurs-unable-get-error-message-from-backend"
+  },
+  {
+    "title": "How to set output directory for pipeline in jupyter lab",
+    "url": "/questions/78506363/how-to-set-output-directory-for-pipeline-in-jupyter-lab"
+  },
+  {
+    "title": "how do I process Intellij .form files when migrating a project to gradle build system?",
+    "url": "/questions/78506361/how-do-i-process-intellij-form-files-when-migrating-a-project-to-gradle-build-s"
+  },
+  {
+    "title": "AgoraIO UIKit disable video by default",
+    "url": "/questions/78506359/agoraio-uikit-disable-video-by-default"
+  },
+  {
+    "title": "Audio output need to pay through Bluetooth speakers",
+    "url": "/questions/78506355/audio-output-need-to-pay-through-bluetooth-speakers"
+  },
+  {
+    "title": "sshd is looking at AuthorizedKeysFile or executing AuthorizedKeysCommand twice with one key based login",
+    "url": "/questions/78506353/sshd-is-looking-at-authorizedkeysfile-or-executing-authorizedkeyscommand-twice-w"
+  },
+  {
+    "title": "Script Improvements / Readability?",
+    "url": "/questions/78506351/script-improvements-readability"
+  },
+  {
+    "title": "PHP function for price count",
+    "url": "/questions/78506346/php-function-for-price-count"
+  },
+  {
+    "title": "Script fails when run as a cron job",
+    "url": "/questions/78506345/script-fails-when-run-as-a-cron-job"
+  },
+  {
+    "title": "How to get access for writing to resource file with setup project?",
+    "url": "/questions/78506344/how-to-get-access-for-writing-to-resource-file-with-setup-project"
+  },
+  {
+    "title": "Please assist: I am experiencing an issue where my Jenkins build is hanging during the npm install stage, specifically at core-js",
+    "url": "/questions/78506342/please-assist-i-am-experiencing-an-issue-where-my-jenkins-build-is-hanging-duri"
+  },
+  {
+    "title": "DaggerAppComponent not creating in the version",
+    "url": "/questions/78506341/daggerappcomponent-not-creating-in-the-version"
+  },
+  {
+    "title": "How can i give a lex ChatBot a image input",
+    "url": "/questions/78506340/how-can-i-give-a-lex-chatbot-a-image-input"
+  },
+  {
+    "title": "CMake - Generator Expression",
+    "url": "/questions/78506338/cmake-generator-expression"
+  },
+  {
+    "title": "Uncaught (in promise) DOMException: Uncaught exception in event handler with indexedDB",
+    "url": "/questions/78506337/uncaught-in-promise-domexception-uncaught-exception-in-event-handler-with-ind"
+  },
+  {
+    "title": "ReactJS, recordrtc, I want to default select the entire screen",
+    "url": "/questions/78506336/reactjs-recordrtc-i-want-to-default-select-the-entire-screen"
+  },
+  {
+    "title": "adding remove button to the dynamically added row jquery",
+    "url": "/questions/78506329/adding-remove-button-to-the-dynamically-added-row-jquery"
+  },
+  {
+    "title": "How i place the menu on the right side of the container?",
+    "url": "/questions/78506325/how-i-place-the-menu-on-the-right-side-of-the-container"
+  },
+  {
+    "title": "Is it possible to embed gazebo in tkinter gui?",
+    "url": "/questions/78506323/is-it-possible-to-embed-gazebo-in-tkinter-gui"
+  },
+  {
+    "title": "React native (Expo) stripe connect redirect_url",
+    "url": "/questions/78506322/react-native-expo-stripe-connect-redirect-url"
+  },
+  {
+    "title": "React Conditional Rendering: div changes size when using empty div",
+    "url": "/questions/78506321/react-conditional-rendering-div-changes-size-when-using-empty-div"
+  },
+  {
+    "title": "How to remove special character without knowing the type of special character?",
+    "url": "/questions/78506320/how-to-remove-special-character-without-knowing-the-type-of-special-character"
+  },
+  {
+    "title": "Product add & remove is not working from sale admin in opencart",
+    "url": "/questions/78506317/product-add-remove-is-not-working-from-sale-admin-in-opencart"
+  },
+  {
+    "title": "Flutter Web on Phone - TextField issue for select, copy, paste, cut, etc. - bad selection mechanism and no popups",
+    "url": "/questions/78506316/flutter-web-on-phone-textfield-issue-for-select-copy-paste-cut-etc-bad"
+  },
+  {
+    "title": "Can I implement websocket in my Spring Boot and Angular project with SQL? [closed]",
+    "url": "/questions/78506315/can-i-implement-websocket-in-my-spring-boot-and-angular-project-with-sql"
+  },
+  {
+    "title": "Not able to click on button which appears to be disabled even after embedding code in the g-recaptcha-response by using 2 captcha",
+    "url": "/questions/78506312/not-able-to-click-on-button-which-appears-to-be-disabled-even-after-embedding-co"
+  },
+  {
+    "title": "Endless scroll issue on mobile devices with Javascript",
+    "url": "/questions/78506310/endless-scroll-issue-on-mobile-devices-with-javascript"
+  },
+  {
+    "title": "Imputation Strategy on Boston Housing Dataset Delivers Same Results",
+    "url": "/questions/78506308/imputation-strategy-on-boston-housing-dataset-delivers-same-results"
+  },
+  {
+    "title": "Cannot remove an Item from a C# list",
+    "url": "/questions/78506307/cannot-remove-an-item-from-a-c-sharp-list"
+  },
+  {
+    "title": "Unable to run sqlcmd via subprocess.Popen",
+    "url": "/questions/78506306/unable-to-run-sqlcmd-via-subprocess-popen"
+  },
+  {
+    "title": "can not connect to mysql with php code | used docker",
+    "url": "/questions/78506303/can-not-connect-to-mysql-with-php-code-used-docker"
+  },
+  {
+    "title": "Select multi-index when one subindex obeys condition",
+    "url": "/questions/78506301/select-multi-index-when-one-subindex-obeys-condition"
+  },
+  {
+    "title": "Wait for callback to finish",
+    "url": "/questions/78506298/wait-for-callback-to-finish"
+  }
+]
